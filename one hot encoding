@@ -1,0 +1,11 @@
+one-hot encoding: used for conversion between categorical Data "variables that are made up of label values" to Numerical Data, 
+ensures that machine learning does not assume that higher numbers are more important and improve predictions, 
+convert each categorical value into a new categorical column and assign a binary value of 1 or 0 to those columns, each integer value is represented as a binary vector. All the values are zero, and the index is marked with a 1.
+useful for data that has no relationship to each other.
+We can more easily establish a probability for our values if we use numeric numbers. For our output values, we choose one hot encoding in particular because it delivers more complex predictions than single labels.
+
+
+
+Unique-ID encoding: a numeric or alphanumeric string that is associated with a single entity within a given system
+identifier that marks that particular record as unique from every other record
+allows for updates or deletes to overwrite the correct record. Without a unique identifier, the updated record or the delete request cannot match to the intended record in the index. 

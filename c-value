@@ -1,0 +1,8 @@
+c-value in hypothesis testing: is a point on the test distribution that is compared to the test statistic to determine whether to reject the null hypothesis
+If the absolute value of your test statistic is greater than the critical value, you can declare statistical significance and reject the null hypothesis.
+The critical value approach involves determining "likely" or "unlikely" by determining whether or not the observed test statistic is more extreme than would be expected if the null hypothesis were true
+If the test statistic is more extreme than the critical value, then the null hypothesis is rejected in favor of the alternative hypothesis.If the test statistic is not as extreme as the critical value, then the null hypothesis is not rejected.
+
+
+Calculating critical values:compare the p-value with a pre-specified value of α, where α is the probability of rejecting H0 when H0 is true.
+compare the calculated value of the test statistic with the critical value. 

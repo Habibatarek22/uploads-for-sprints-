@@ -1,0 +1,4 @@
+Grid Search: Define a search space as a grid of hyperparameter values and evaluate every position in the grid, Grid search is great for spot-checking combinations that are known to perform well generally
+
+Hyperparameters: are points of choice or configuration that allow a machine learning model to be customized for a specific task or dataset.
+Model configuration argument specified by the developer to guide the learning process for a specific dataset.

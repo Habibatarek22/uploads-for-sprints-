@@ -1,0 +1,18 @@
+demosacing:  is a digital image process used to reconstruct a full color image from the incomplete color samples output from an image sensor overlaid with a color filter array (CFA)
+
+1) Simple interpolation: there is 2 algorithms  nearest-neighbor interpolation  and bilinear interpolation.
+ nearest-neighbor interpolation:just duplicates a pixel in the same colour channel next to it. It is undesirable for any application where quality is important, although given minimal processing resources, it can be useful for generating previews, an be useful for generating previews given limited computational resources
+ bilinear interpolation: the red value of a non-red pixel is computed as the average of the two or four adjacent red pixels, and similarly for blue and green.
+ 
+ 2) Pixel correlation within an image: more sophisticated demosaicing algorithms exploit the spatial and spectral correlation of pixels within a color image,
+ Spatial correlation is the tendency of pixels to assume similar color values within a small homogeneous region of an image,
+ Spectral correlation is the dependency between the pixel values of different color planes in a small image region,
+ This algorithms includes: Variable Number of Gradients , Pixel Grouping , Adaptive Homogeneity-Directed, Aliasing Minimization and Zipper Elimination
+ 
+ 
+ 3) Video super-resolution/demosaicing 
+ 
+ 4)trade-offs
+ 
+ 
+ 

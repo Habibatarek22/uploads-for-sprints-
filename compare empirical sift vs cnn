@@ -1,0 +1,25 @@
+SIFT: Scale Invariant Feature Transform: a computer vision algorithm to detect, describe, and match local features in images,
+SIFT keypoints of objects are first extracted from a set of reference images and stored in a database,
+It locates certain key points and then furnishes them with quantitative information which can be used for object recognition,
+Invariant to scaling, rotation and translation,
+The feature extraction and learning process of SIFT is very different than the processing in the human brain
+Simpler deign and less parameters to set compared to CNN 
+Less processing power needed, memory needed for storing features for each image
+Smaller training set and faster than CNN 
+More relevant for identification tasks 
+Can be used for real time scenarios
+
+
+
+
+CNN: Convolutional Neural Network:  is a class of artificial neural network, used in image recognition and processing that is specifically designed to process pixel data,
+use deep learning to perform both generative and descriptive tasks, often using machine vison that includes image and video recognition, along with recommender systems and natural language processing,
+uses a system much like a multilayer perceptron that has been designed for reduced processing requirements. The layers of a CNN consist of an input layer, an output layer and a hidden layer that includes multiple convolutional layers, pooling layers, fully connected layers and normalization layers,
+The removal of constraints and increase in image processing efficiency leads in a system that is significantly more effective and easier to train for image processing and natural language processing,
+The way of feature extraction and generalization from simple to complex is much more similar to the processing in the human visual system,
+Needs experience to make design decisions,
+High demand for processing during the training phase, memory needed to store the weights of the network,
+The bigger the training set the better and slower than SIFT,
+More relevant for classification and categorization tasks, has very good generalization abilities,
+
+

@@ -1,0 +1,9 @@
+Single layer perceptron is the first proposed neural model created,
+The content of the local memory of the neuron consists of a vector of weights,
+The computation of a single layer perceptron is performed over the calculation of sum of the input vector each with the value multiplied by corresponding element of vector of the weights,
+The value which is displayed in the output will be the input of an activation function.
+Steps:
+1)The weights are initialized with random values at the beginning of the training.
+2)For each element of the training set, the error is calculated with the difference between desired output and the actual output. The error calculated is used to adjust the weights.
+3)The process is repeated until the error made on the entire training set is not less than the specified threshold, until the maximum number of iterations is reached.
+Perceptron is mainly used to classify the data into two parts. 

@@ -1,0 +1,5 @@
+Regression Analysis is a statistical method for predicting future values based on a set of observations of an independent variable across time,
+This method can be used to forecast utilising statistical methods that are widely acknowledged in the business,
+It makes sense to predict  the future behavior of incidents being analyzed based on past performance,
+It makes logical to use trending to demonstrate what can happen if no action is taken.
+Regression models are often constructed based on certain conditions that must be verified for the model to fit the data well, and to be able to predict accurately

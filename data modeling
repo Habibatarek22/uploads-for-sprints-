@@ -1,0 +1,5 @@
+A data model will give you a standard mechanism for defining and analyzing data within your organization
+By modeling the data in each of these systems, you can see relationships and redundancies, resolve discrepancies, and integrate disparate systems so they can work together,
+This integrated enterprise data model provides consistent contextualized information, data lineage and a single version of truth for data queries and reporting.
+organizes data elements and standardizes how the data elements relate to one another. Since data elements document real life people, places and things and the events between them, the data model represents reality.
+used as an aid to communication between the business people defining the requirements for a computer system and the technical people defining the design in response to those requirements. They are used to show the data needed and created by business processes
